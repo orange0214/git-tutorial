@@ -2,3 +2,4 @@
 
 Test the operation about branch
 - fix-B
+- feature-C
